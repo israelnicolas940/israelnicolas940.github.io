@@ -22,7 +22,10 @@
 - type: linkedin
   icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
   url: "https://www.linkedin.com/in/israel-mendes-bb0a53217"
-#
+
+- type: hack-the-box
+  icon: "fas fa-cube"
+  url: "https://app.hackthebox.com/public/users/2385565"
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
